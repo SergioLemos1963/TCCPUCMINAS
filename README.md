@@ -5,7 +5,7 @@ PROJETO INTEGRADO - ENGENHARIA DE SOFTWARE (2022)
 # Inside Tech Solutions
 ## 🚀 Skills
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a href="https://www.figma.com/file/OWHhOz9WaMQj87fO9RColt/PlayerMusic?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a><a href="https://astromusicplayer.tk/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a><</a>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a href="https://www.figma.com/file/OWHhOz9WaMQj87fO9RColt/PlayerMusic?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a><a href="https://astromusicplayer.tk/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a></a>
 
 **Aplicações e Dados**
   
